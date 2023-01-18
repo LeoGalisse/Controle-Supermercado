@@ -1,0 +1,24 @@
+﻿  arquivo.cpp
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\arquivo.cpp(89,18): warning C4244: '+=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\arquivo.cpp(131,144): warning C4834: descartando o valor retornado da função com o atributo 'nodiscard'
+  cadastro.cpp
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\cadastro.cpp(60,26): warning C4244: '=': conversão de '__int64' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\cadastro.cpp(82,17): warning C4244: '-=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\cadastro.cpp(108,18): warning C4244: '+=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\cadastro.cpp(149,16): warning C4244: '-=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\cadastro.cpp(173,17): warning C4244: '+=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\cadastro.cpp(188,15): warning C4244: '-=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\cadastro.cpp(316,204): warning C4834: descartando o valor retornado da função com o atributo 'nodiscard'
+  clear.cpp
+  hashing.cpp
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\hashing.cpp(106,19): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\hashing.cpp(125,19): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+  Prototipo_V2.cpp
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\Prototipo_V2.cpp(257,28): warning C4244: '=': conversão de '__int64' para 'int', possível perda de dados
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\Prototipo_V2.cpp(154,19): warning C4101: 'aux_quantidade': variável local não referenciada
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\Prototipo_V2.cpp(158,8): warning C4101: 'valor': variável local não referenciada
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\Prototipo_V2.cpp(155,6): warning C4101: 'aux_total': variável local não referenciada
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\Prototipo_V2.cpp(154,8): warning C4101: 'aux_valor': variável local não referenciada
+C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\Prototipo_V2\Prototipo_V2.cpp(152,16): warning C4101: 'aux_codigo': variável local não referenciada
+  Gerando Código...
+  Prototipo_V2.vcxproj -> C:\Users\leona\OneDrive\INATEL\Projetos\Prototipo_V2\x64\Debug\Prototipo_V2.exe
